@@ -26,6 +26,8 @@ também é preciso ter um gerenciador de pacotes como  NPM ou YARN.</p>
 
 
 # Resultado Web
+![pritn](https://user-images.githubusercontent.com/53882388/98823066-63f4db00-2410-11eb-929a-2b3eec6e946a.jpeg)
+
 
 
 <h4 align="center">
