@@ -1,6 +1,7 @@
 <h1>Sobre</h1>
 <p>
-Colone da Netflix
+Clone da tela inicial do netflix
+ Desenvolvi esse projeto para demonstrar meus conhecimentos nessas técnologias 
 </p>
 <h1>🔥Iniciar Aplicação</h1>
 
